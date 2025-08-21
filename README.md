@@ -16,7 +16,7 @@ This assignment provides hands-on practice with ensemble learning methods and mo
 | File Name                  | Description |
 | -------------------------- | ------------------------------------------------------------ |
 | RandomForest.ipynb          | Jupyter Notebook containing preprocessing, Random Forest implementation, bagging & boosting comparison |
-| Random Forest.docx          | Word document containing the problem statement and assignment details |
+| Random Forest.txt           | Text document containing the problem statement and assignment details |
 | glass.csv                   | Dataset containing chemical composition features and glass type labels |
 
 ---
